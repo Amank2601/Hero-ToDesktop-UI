@@ -9,7 +9,7 @@
 ## 🚀 Live Demo
 
 🌐 **GitHub Pages Link:**  
-[🔗 Click to View Demo](https://yourusername.github.io/todesktop-hero-clone)
+[🔗 Click to View Demo](https://amank2601.github.io/Hero-ToDesktop-UI/)
 
 ---
 
